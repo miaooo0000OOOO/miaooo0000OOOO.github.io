@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: true
-weibo_username:     草迷宫affection
-zhihu_username:     世界D1
+weibo_username:     6607026452
+zhihu_username:     shi-jie-d1-19
 github_username:    miaooo0000OOOO
-facebook_username:  Fromireland Tokhitay
-#jianshu_username:   e71990ada2fd
-twitter_username:   maosredguard
+facebook_username:  
+jianshu_username:   
+twitter_username:   
 
 
 
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 7d3d25b48b819d2332ab                            #生成的clientID
   clientSecret: 4f9cc0796534415341285a1bc94a0d45640c8968    #生成的clientSecret
-  repo: miaooo0000OOOO.github.io    #仓库名称
+  repo: BlogPingLun    #仓库名称
   owner: miaooo0000OOOO    #github用户名
   admin: miaooo0000OOOO
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
