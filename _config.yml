@@ -100,3 +100,6 @@ service-worker: true
 friends: [
     
 ]
+
+#jekyll 不编译_posts的解决办法
+future: true
