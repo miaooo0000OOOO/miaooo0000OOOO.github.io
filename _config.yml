@@ -68,6 +68,7 @@ gitalk:
   owner: miaooo0000OOOO    #github用户名
   admin: miaooo0000OOOO
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
 
 
 # 统计
