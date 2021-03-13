@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miao Blog</title>
+    <description>Hello World!</description>
+    <link>http://miaooo0000OOOO.github.io/</link>
+    <atom:link href="http://miaooo0000OOOO.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 13 Mar 2021 23:30:17 +0800</pubDate>
+    <lastBuildDate>Sat, 13 Mar 2021 23:30:17 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>计算机组成原理笔记</title>
+        <description>&lt;h1 id=&quot;原视频&quot;&gt;原视频&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1BE411D7ii&quot;&gt;计算机组成原理&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;笔记&quot;&gt;笔记&lt;/h1&gt;
+&lt;h2 id=&quot;计算机硬件的基本组成&quot;&gt;计算机硬件的基本组成&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;../img/posts/计算机组成原理笔记/p4/早期冯诺依曼机.png&quot; alt=&quot;早期冯诺依曼机&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;../img/posts/计算机组成原理笔记/p4/现代计算机的结构.png&quot; alt=&quot;现代计算机的结构&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;各个硬件部件&quot;&gt;各个硬件部件&lt;/h2&gt;
+&lt;h4 id=&quot;主储存器&quot;&gt;主储存器&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;../img/posts/计算机组成原理笔记/p5/主储存器的基本组成.png&quot; alt=&quot;主储存器的基本组成&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;MAR位数反映存储单元的个数，如MAR=4bit,则共有2^4个存储单元&lt;/p&gt;
+
+&lt;p&gt;MDR位数=存储字长&lt;/p&gt;
+&lt;h4 id=&quot;运算器&quot;&gt;运算器&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;用于实现算数运算和逻辑运算&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;../img/posts/计算机组成原理笔记/p5/运算器.png&quot; alt=&quot;运算器&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;ACC(Accumulator):累加器，用于存放操作数，或运算结果&lt;/p&gt;
+
+  &lt;p&gt;MQ(Mutiple-Quotient Register):乘商寄存器，在乘、除运算时，用于存放操作数或运算结果&lt;/p&gt;
+
+  &lt;p&gt;X:通用寄存器，用于存放操作数&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;ALU&lt;/strong&gt;(Arithmetic and Logic Unit):算数逻辑单元，实现算数运算、逻辑运算&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 19 Feb 2021 00:00:00 +0800</pubDate>
+        <link>http://miaooo0000OOOO.github.io/2021/02/19/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E7%9A%84%E7%AC%94%E8%AE%B0/</link>
+        <guid isPermaLink="true">http://miaooo0000OOOO.github.io/2021/02/19/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E7%9A%84%E7%AC%94%E8%AE%B0/</guid>
+        
+        <category>计算机组成原理</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>第一个网页</title>
+        <description>&lt;h1 id=&quot;心血来潮做网页&quot;&gt;心血来潮做网页&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;这只是一个测试&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;感谢&lt;a href=&quot;https://github.com/qiubaiying&quot;&gt;BY&lt;/a&gt;提供的网页模板和代码&lt;/p&gt;
+
+&lt;p&gt;建立网页的&lt;a href=&quot;https://github.com/qiubaiying/qiubaiying.github.io&quot;&gt;教程&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Github Page yyds&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Feb 2021 00:00:00 +0800</pubDate>
+        <link>http://miaooo0000OOOO.github.io/2021/02/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+        <guid isPermaLink="true">http://miaooo0000OOOO.github.io/2021/02/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+        
+        <category>Github</category>
+        
+        <category>web</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
