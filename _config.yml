@@ -23,7 +23,8 @@ email: 1683618861@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   ......
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://miaooo0000OOOO.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://miaooo0000OOOO.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "E:/Code/miaooo0000OOOO.github.io" # 本地测试用
 github_username:  miaooo0000OOOO
 
 # Build settings
