@@ -1,55 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>网络课程推荐</title>
-    <url>/2024/10/02/course-list/</url>
-    <content><![CDATA[<h1 id="课程概述"><a href="#课程概述" class="headerlink" title="课程概述"></a>课程概述</h1><p>以下资源是我个人看过（可能没看完）或其他人推荐的，可以通过这些课程自学计算机，免费。</p>
-<h1 id="学习路径"><a href="#学习路径" class="headerlink" title="学习路径"></a>学习路径</h1><p>我认为你应该先从数字电路和计算机组成原理开始学起，同时学习C和Python语言，这样你就入门了。</p>
-<p>非常重要的几门课是：数据结构与算法、操作系统、编译原理、计算机网络</p>
-<p>这些课程可以为你打好基础</p>
-<p>计算机图形学、物理仿真、游戏引擎、人工智能、图像处理是细分方向</p>
-<p>还有一些课程教你工具的使用，例如：git、shell、docker等</p>
-<p>最后还有一些很有用（很难）的数学，例如：图论、线性规划、计算几何等</p>
-<h1 id="课程列表"><a href="#课程列表" class="headerlink" title="课程列表"></a>课程列表</h1><p>计算机科学速成课 Crash Course Computer Science <a href="https://www.bilibili.com/video/BV1EW411u7th/">https://www.bilibili.com/video/BV1EW411u7th/</a></p>
-<p>王道计算机考研 计算机组成原理 <a href="https://www.bilibili.com/video/BV1ps4y1d73V/">https://www.bilibili.com/video/BV1ps4y1d73V/</a></p>
-<p>图灵完备 （收费游戏 数字电路和计算机组成原理）<a href="https://store.steampowered.com/app/1444480/Turing_Complete/?l=schinese">https://store.steampowered.com/app/1444480/Turing_Complete/?l=schinese</a></p>
-<p>从与非门到计算机（免费网络游戏 数字电路和计算机组成原理）<a href="https://www.nandgame.com/">https://www.nandgame.com/</a></p>
-<p>从0到1设计一台计算机 <a href="https://www.bilibili.com/video/BV1wi4y157D3/">https://www.bilibili.com/video/BV1wi4y157D3/</a></p>
-<p>Logisim 数字电路仿真器 官网（慢）<a href="http://www.cburch.com/logisim/">http://www.cburch.com/logisim/</a></p>
-<p>Logisim Evolution 更好的Logisim <a href="https://github.com/logisim-evolution/logisim-evolution">https://github.com/logisim-evolution/logisim-evolution</a></p>
-<p>浙江大学翁恺C语言 <a href="https://www.bilibili.com/video/BV1dr4y1n7vA/">https://www.bilibili.com/video/BV1dr4y1n7vA/</a></p>
-<p>Rust编程语言入门教程 <a href="https://www.bilibili.com/video/BV1hp4y1k7SV/">https://www.bilibili.com/video/BV1hp4y1k7SV/</a></p>
-<p>从0开始的C++算法课 <a href="https://www.bilibili.com/video/BV1Bu4y1Y7ow/">https://www.bilibili.com/video/BV1Bu4y1Y7ow/</a></p>
-<p>南京大学操作系统-蒋炎岩 <a href="https://www.bilibili.com/video/BV1Cm4y1d7Ur/">https://www.bilibili.com/video/BV1Cm4y1d7Ur/</a></p>
-<p>CSAPP-深入理解计算机系统 <a href="https://www.bilibili.com/video/BV1cD4y1D7uR/">https://www.bilibili.com/video/BV1cD4y1D7uR/</a></p>
-<p>一生一芯 <a href="https://www.bilibili.com/video/BV14F411975K/">https://www.bilibili.com/video/BV14F411975K/</a></p>
-<p>GAMES101-现代计算机图形学入门-闫令琪 <a href="https://www.bilibili.com/video/BV1X7411F744/">https://www.bilibili.com/video/BV1X7411F744/</a></p>
-<p>吴恩达-机器学习 <a href="https://www.bilibili.com/video/BV164411b7dx/">https://www.bilibili.com/video/BV164411b7dx/</a></p>
-<p>吴恩达-深度学习 <a href="https://www.bilibili.com/video/BV1FT4y1E74V/">https://www.bilibili.com/video/BV1FT4y1E74V/</a></p>
-<p>北大未名超算队 高性能计算入门 <a href="https://www.bilibili.com/video/BV1814y1g7YC/">https://www.bilibili.com/video/BV1814y1g7YC/</a></p>
-<p>一口气学完图论 <a href="https://www.bilibili.com/video/BV1aE4m1R79t/">https://www.bilibili.com/video/BV1aE4m1R79t/</a></p>
-<p>【GeekHour】一小时Git教程 <a href="https://www.bilibili.com/video/BV1HM411377j">https://www.bilibili.com/video/BV1HM411377j</a></p>
-<p>【装机教程】全网最好的装机教程，没有之一 <a href="https://www.bilibili.com/video/BV1BG4y137mG/">https://www.bilibili.com/video/BV1BG4y137mG/</a></p>
-<h1 id="优秀的UP主推荐"><a href="#优秀的UP主推荐" class="headerlink" title="优秀的UP主推荐"></a>优秀的UP主推荐</h1><p>3Blue1Brown <a href="https://space.bilibili.com/88461692">https://space.bilibili.com/88461692</a></p>
-<p>Ele实验室 <a href="https://space.bilibili.com/481434238">https://space.bilibili.com/481434238</a></p>
-<p>硬件茶谈 <a href="https://space.bilibili.com/14871346">https://space.bilibili.com/14871346</a></p>
-<p>GAMES-Webinar <a href="https://space.bilibili.com/512313464">https://space.bilibili.com/512313464</a></p>
-<p>王道计算机教育 <a href="https://space.bilibili.com/95228778">https://space.bilibili.com/95228778</a></p>
-<p>程序员鱼皮 <a href="https://space.bilibili.com/12890453">https://space.bilibili.com/12890453</a></p>
-<h1 id="好用的网站收集"><a href="#好用的网站收集" class="headerlink" title="好用的网站收集"></a>好用的网站收集</h1><p><a href="https://github.com/">https://github.com/</a></p>
-<p><a href="https://stackoverflow.com/questions/">https://stackoverflow.com/questions/</a></p>
-<p><a href="https://wiki.archlinux.org/">https://wiki.archlinux.org/</a></p>
-<p><a href="https://askubuntu.com/">https://askubuntu.com/</a></p>
-<p><a href="https://csdiy.wiki/">https://csdiy.wiki/</a></p>
-<p><a href="https://oi-wiki.org/">https://oi-wiki.org/</a></p>
-<p><a href="https://ctf-wiki.org/">https://ctf-wiki.org/</a></p>
-<p><a href="https://pku-minic.github.io/online-doc/">https://pku-minic.github.io/online-doc/</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>测试</title>
     <url>/2024/10/02/test/</url>
-    <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h1 id="文章测试"><a href="#文章测试" class="headerlink" title="文章测试"></a>文章测试</h1><p>盼望着，盼望着，东风来了，春天的脚步近了。</p>
+    <content><![CDATA[<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<h1 id="文章测试">文章测试</h1>
+<p>盼望着，盼望着，东风来了，春天的脚步近了。</p>
 <p>一切都像刚睡醒的样子，欣欣然张开了眼。山朗润起来了，水涨起来了，太阳的脸红起来了。</p>
 <p>小草偷偷地从土里钻出来，嫩嫩的，绿绿的。园子里，田野里，瞧去，一大片一大片满是的。坐着，躺着，打两个滚，踢几脚球，赛几趟跑，捉几回迷藏。风轻悄悄的，草软绵绵的。</p>
 <p>桃树、杏树、梨树，你不让我，我不让你，都开满了花赶趟儿。红的像火，粉的像霞，白的像雪。花里带着甜味；闭了眼，树上仿佛已经满是桃儿、杏儿、梨儿。花下成千成百的蜜蜂嗡嗡地闹着，大小的蝴蝶飞来飞去。野花遍地是：杂样儿，有名字的，没名字的，散在草丛里，像眼睛，像星星，还眨呀眨的。</p>
@@ -75,20 +33,98 @@
 
 主人何为言少钱，径须沽取对君酌。
 
-五花马、千金裘，呼儿将出换美酒，与尔同销万古愁！
-</code></pre>
-<h1 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h1><p><img src="/2024/10/02/test/test.jpg" alt="test.jpg"></p>
-<p><img src="/2024/10/02/test/test.png" alt="test.png"></p>
-<h1 id="数学测试"><a href="#数学测试" class="headerlink" title="数学测试"></a>数学测试</h1><p>若$a&gt;0$, $b&gt;0$, 则$a+b&gt;0$.</p>
-<p>设$\displaystyle\lim_{n\to\infty}x_n=x$.</p>
-<p>若$a&gt;0$, $b&gt;0$, 则</p>
-<p>$a+b&gt;0$.</p>
-<p>$$<br>f(x)=\begin{cases}<br>    x, &amp; x&gt;0, \newline<br>    -x, &amp; x\leq 0.<br>\end{cases}<br>$$</p>
-<p>$$<br>\begin{aligned}<br>a &amp; =b+c \newline<br>&amp; =d+e<br>\end{aligned}<br>$$</p>
-<p>$$<br>\begin{gather*}<br>\begin{matrix} 0 &amp; 1 \newline 1 &amp; 0 \end{matrix}\quad<br>\begin{pmatrix} 0 &amp; -i \newline i &amp; 0 \end{pmatrix}\newline<br>\begin{bmatrix} 0 &amp; -1 \newline 1 &amp; 0 \end{bmatrix}\quad<br>\begin{Bmatrix} 1 &amp; 0 \newline 0 &amp; -1 \end{Bmatrix}\newline<br>\begin{vmatrix} a &amp; b \newline c &amp; d \end{vmatrix}\quad<br>\begin{Vmatrix} i &amp; 0 \newline 0 &amp; -i \end{Vmatrix}<br>\end{gather*}<br>$$</p>
-<p>$$<br>\overrightarrow{P_0P} \ \underrightarrow{P_0P} \ \overline{P_0P}<br>$$</p>
-<h1 id="代码测试"><a href="#代码测试" class="headerlink" title="代码测试"></a>代码测试</h1><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello World!\n&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">fn</span> <span class="title function_">main</span>() &#123;</span><br><span class="line">    <span class="built_in">println!</span>(<span class="string">&quot;Hello, world!&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+五花马、千金裘，呼儿将出换美酒，与尔同销万古愁！</code></pre>
+<h1 id="图片测试">图片测试</h1>
+<figure>
+<img src="test.jpg" alt="" /><figcaption>test.jpg</figcaption>
+</figure>
+<figure>
+<img src="test.png" alt="" /><figcaption>test.png</figcaption>
+</figure>
+<h1 id="数学测试">数学测试</h1>
+<p>若<span class="math inline">\(a&gt;0\)</span>, <span class="math inline">\(b&gt;0\)</span>, 则<span class="math inline">\(a+b&gt;0\)</span>.</p>
+<p>设<span class="math inline">\(\displaystyle\lim_{n\to\infty}x_n=x\)</span>.</p>
+<p>若<span class="math inline">\(a&gt;0\)</span>, <span class="math inline">\(b&gt;0\)</span>, 则</p>
+<p><span class="math inline">\(a+b&gt;0\)</span>.</p>
+<p><span class="math display">\[
+f(x)=\begin{cases}
+    x, &amp; x&gt;0, \newline
+    -x, &amp; x\leq 0.
+\end{cases}
+\]</span></p>
+<p><span class="math display">\[
+\begin{aligned}
+a &amp; =b+c \newline
+&amp; =d+e
+\end{aligned}
+\]</span></p>
+<p><span class="math display">\[
+\begin{gather*}
+\begin{matrix} 0 &amp; 1 \newline 1 &amp; 0 \end{matrix}\quad
+\begin{pmatrix} 0 &amp; -i \newline i &amp; 0 \end{pmatrix}\newline
+\begin{bmatrix} 0 &amp; -1 \newline 1 &amp; 0 \end{bmatrix}\quad
+\begin{Bmatrix} 1 &amp; 0 \newline 0 &amp; -1 \end{Bmatrix}\newline
+\begin{vmatrix} a &amp; b \newline c &amp; d \end{vmatrix}\quad
+\begin{Vmatrix} i &amp; 0 \newline 0 &amp; -i \end{Vmatrix}
+\end{gather*}
+\]</span></p>
+<p><span class="math display">\[
+\overrightarrow{P_0P} \ \underrightarrow{P_0P} \ \overline{P_0P}
+\]</span></p>
+<h1 id="代码测试">代码测试</h1>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello World!\n&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">fn</span> <span class="title function_">main</span>() &#123;</span><br><span class="line">    <span class="built_in">println!</span>(<span class="string">&quot;Hello, world!&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+  <entry>
+    <title>网络课程推荐</title>
+    <url>/2024/10/02/course-list/</url>
+    <content><![CDATA[<h1 id="课程概述">课程概述</h1>
+<p>以下资源是我个人看过（可能没看完）或其他人推荐的，可以通过这些课程自学计算机，免费。</p>
+<h1 id="学习路径">学习路径</h1>
+<p>我认为你应该先从数字电路和计算机组成原理开始学起，同时学习C和Python语言，这样你就入门了。</p>
+<p>非常重要的几门课是：数据结构与算法、操作系统、编译原理、计算机网络</p>
+<p>这些课程可以为你打好基础</p>
+<p>计算机图形学、物理仿真、游戏引擎、人工智能、图像处理是细分方向</p>
+<p>还有一些课程教你工具的使用，例如：git、shell、docker等</p>
+<p>最后还有一些很有用（很难）的数学，例如：图论、线性规划、计算几何等</p>
+<h1 id="课程列表">课程列表</h1>
+<p>计算机科学速成课 Crash Course Computer Science <a href="https://www.bilibili.com/video/BV1EW411u7th/">https://www.bilibili.com/video/BV1EW411u7th/</a></p>
+<p>王道计算机考研 计算机组成原理 <a href="https://www.bilibili.com/video/BV1ps4y1d73V/">https://www.bilibili.com/video/BV1ps4y1d73V/</a></p>
+<p>图灵完备 （收费游戏 数字电路和计算机组成原理）<a href="https://store.steampowered.com/app/1444480/Turing_Complete/?l=schinese">https://store.steampowered.com/app/1444480/Turing_Complete/?l=schinese</a></p>
+<p>从与非门到计算机（免费网络游戏 数字电路和计算机组成原理）<a href="https://www.nandgame.com/">https://www.nandgame.com/</a></p>
+<p>从0到1设计一台计算机 <a href="https://www.bilibili.com/video/BV1wi4y157D3/">https://www.bilibili.com/video/BV1wi4y157D3/</a></p>
+<p>Logisim 数字电路仿真器 官网（慢）<a href="http://www.cburch.com/logisim/">http://www.cburch.com/logisim/</a></p>
+<p>Logisim Evolution 更好的Logisim <a href="https://github.com/logisim-evolution/logisim-evolution">https://github.com/logisim-evolution/logisim-evolution</a></p>
+<p>浙江大学翁恺C语言 <a href="https://www.bilibili.com/video/BV1dr4y1n7vA/">https://www.bilibili.com/video/BV1dr4y1n7vA/</a></p>
+<p>Rust编程语言入门教程 <a href="https://www.bilibili.com/video/BV1hp4y1k7SV/">https://www.bilibili.com/video/BV1hp4y1k7SV/</a></p>
+<p>从0开始的C++算法课 <a href="https://www.bilibili.com/video/BV1Bu4y1Y7ow/">https://www.bilibili.com/video/BV1Bu4y1Y7ow/</a></p>
+<p>南京大学操作系统-蒋炎岩 <a href="https://www.bilibili.com/video/BV1Cm4y1d7Ur/">https://www.bilibili.com/video/BV1Cm4y1d7Ur/</a></p>
+<p>CSAPP-深入理解计算机系统 <a href="https://www.bilibili.com/video/BV1cD4y1D7uR/">https://www.bilibili.com/video/BV1cD4y1D7uR/</a></p>
+<p>一生一芯 <a href="https://www.bilibili.com/video/BV14F411975K/">https://www.bilibili.com/video/BV14F411975K/</a></p>
+<p>GAMES101-现代计算机图形学入门-闫令琪 <a href="https://www.bilibili.com/video/BV1X7411F744/">https://www.bilibili.com/video/BV1X7411F744/</a></p>
+<p>吴恩达-机器学习 <a href="https://www.bilibili.com/video/BV164411b7dx/">https://www.bilibili.com/video/BV164411b7dx/</a></p>
+<p>吴恩达-深度学习 <a href="https://www.bilibili.com/video/BV1FT4y1E74V/">https://www.bilibili.com/video/BV1FT4y1E74V/</a></p>
+<p>北大未名超算队 高性能计算入门 <a href="https://www.bilibili.com/video/BV1814y1g7YC/">https://www.bilibili.com/video/BV1814y1g7YC/</a></p>
+<p>一口气学完图论 <a href="https://www.bilibili.com/video/BV1aE4m1R79t/">https://www.bilibili.com/video/BV1aE4m1R79t/</a></p>
+<p>【GeekHour】一小时Git教程 <a href="https://www.bilibili.com/video/BV1HM411377j">https://www.bilibili.com/video/BV1HM411377j</a></p>
+<p>【装机教程】全网最好的装机教程，没有之一 <a href="https://www.bilibili.com/video/BV1BG4y137mG/">https://www.bilibili.com/video/BV1BG4y137mG/</a></p>
+<h1 id="优秀的up主推荐">优秀的UP主推荐</h1>
+<p>3Blue1Brown <a href="https://space.bilibili.com/88461692">https://space.bilibili.com/88461692</a></p>
+<p>Ele实验室 <a href="https://space.bilibili.com/481434238">https://space.bilibili.com/481434238</a></p>
+<p>硬件茶谈 <a href="https://space.bilibili.com/14871346">https://space.bilibili.com/14871346</a></p>
+<p>GAMES-Webinar <a href="https://space.bilibili.com/512313464">https://space.bilibili.com/512313464</a></p>
+<p>王道计算机教育 <a href="https://space.bilibili.com/95228778">https://space.bilibili.com/95228778</a></p>
+<p>程序员鱼皮 <a href="https://space.bilibili.com/12890453">https://space.bilibili.com/12890453</a></p>
+<h1 id="好用的网站收集">好用的网站收集</h1>
+<p><a href="https://github.com/">https://github.com/</a></p>
+<p><a href="https://stackoverflow.com/questions/">https://stackoverflow.com/questions/</a></p>
+<p><a href="https://wiki.archlinux.org/">https://wiki.archlinux.org/</a></p>
+<p><a href="https://askubuntu.com/">https://askubuntu.com/</a></p>
+<p><a href="https://csdiy.wiki/">https://csdiy.wiki/</a></p>
+<p><a href="https://oi-wiki.org/">https://oi-wiki.org/</a></p>
+<p><a href="https://ctf-wiki.org/">https://ctf-wiki.org/</a></p>
+<p><a href="https://pku-minic.github.io/online-doc/">https://pku-minic.github.io/online-doc/</a></p>
+]]></content>
   </entry>
 </search>
